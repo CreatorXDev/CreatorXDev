@@ -8,8 +8,19 @@ Here are some ideas to get you started:
 - 🔭 I'm a student so I don't work
 
  
-[![Sai King's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorXDev&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/CreatorXDev/github-readme-stats)
+[![Sai King'S GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorXDev&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/CreatorXDev/github-readme-stats)
 
+<details>
+  <summary>GitHub Stats</summary>
+  <br/>
+<p align="left"> <a href="https://github.com/CreatorXDev"><img src="https://github-profile-trophy.vercel.app/?username=CreatorXDev" alt="CreatorXDev" /></a> </p>
+
+</details>
+<details>
+    <summary>Top Languages</summary>
+    <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorXDev)](https://github.com/CreatorXDev)
 
 <details>
   <summary>Where To Find Me</summary>
