@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <details>
     <summary>Top Languages</summary>
     <br/>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorXDev)](https://github.com/CreatorXDev)
 
 <details>
