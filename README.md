@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 <details>
   <summary>GitHub Stats</summary>
   <br/>
-<p align="left"> <a href="https://github.com/CreatorXDev"><img src="https://github-profile-trophy.vercel.app/?username=CreatorXDev" alt="CreatorXDev" /></a> </p>
+<p align="left"> <a href="https://github.com/CreatorXDev"><img src="https://github-readme-stats.vercel.app/api?username=CreatorXDev" alt="CreatorXDev" /></a> </p>
 
 </details>
 <details>
