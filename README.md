@@ -7,17 +7,17 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on Anything Related With Python & Telegram Bots
 - 🔭 I'm a student so I don't work
 
-<p align="center"> <a href="https://github.com/CreatorXDev"><img src="https://komarev.com/ghpvc/?username=CreatorXDev&label=Profile%20views&color=red&style=for-the-badge"
+[![Miss Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorXDev&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/CreatorXDev/github-readme-stats)
 
-<p align="center">
-<a href="https://github.com/CreatorXDev">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=CreatorXDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a></p>
+<details>
+  <summary>GitHub Stats</summary>
+  <br/>
+<p align="left"> <a href="https://github.com/CreatorXDev"><img src="https://github-profile-trophy.vercel.app/?username=CreatorXDev" alt="CreatorXDev" /></a> </p>
 
+</details>
 <details>
     <summary>Top Languages</summary>
     <br/>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorXDev)](https://github.com/CreatorXDev)
 
 <details>
