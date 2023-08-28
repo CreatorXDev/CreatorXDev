@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/CreatorXDev">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=CreatorXDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CreatorXDev&theme=dracula"/>
 </a></p>
 
 </details>
