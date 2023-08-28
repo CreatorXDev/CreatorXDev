@@ -14,7 +14,6 @@ Here are some ideas to get you started:
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=CreatorXDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a></p>
 
-</details>
 <details>
     <summary>Top Languages</summary>
     <br/>
