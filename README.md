@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on Anything Related With Python & Telegram Bots
 - 🔭 I'm a student so I don't work
 
-[![Miss Emily's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorXDev&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/CreatorXDev/github-readme-stats)
+[![SaiKing's GitHub stats](https://github-readme-stats.vercel.app/api?username=CreatorXDev&theme=aura&count_private=true&show_icons=true&cache_seconds=900)](https://github.com/CreatorXDev/github-readme-stats)
 
 <details>
   <summary>GitHub Stats</summary>
